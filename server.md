@@ -77,6 +77,8 @@ The above tools are created for the purpose of testing server performance and ed
 ### For Seurat Tools
 The seurat tools listed above are created in the styles of [existing seurat tools](https://github.com/ebi-gene-expression-group/container-galaxy-sc-tertiary/tree/main/tools/tertiary-analysis/seurat) on galaxy, including Plot, RunPCA, and Scale Data, created by the EBI Gene Expression Team. A small part of their  [seurat_macros](https://github.com/ebi-gene-expression-group/container-galaxy-sc-tertiary/blob/main/tools/tertiary-analysis/seurat/seurat_macros.xml) has been reused in the new tool development for convenience and similar layout. 
 
+A Seurat *workflow* also exists on the current server, attached to test1 user. Once ensuring seurat tools from tool shed are correctly installed, the workflow can be run with provided sample inputs. For sample input and source code for workflow, please see folder seurat_workflow.
+
 
 
 

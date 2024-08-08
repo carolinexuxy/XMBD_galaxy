@@ -62,9 +62,11 @@ To create admin account/give admin access to other account:
 
 The current server contains several sample tools.
 
-1. E-SpotFinder under XMBDToolbox section
+1. E-SpotFinder under XMBDToolbox section.
 
-2. Under Seurat Section: 
+   For information about E-SpotFinder tool, see source repo https://github.com/Lhhuan/E-SpotFinder.
+
+3. Under Seurat Section: 
 
     * Seurat Percentage Feature Set
 

@@ -2,6 +2,12 @@
 
 This repo is dedicated to XMBD's [galaxy server](https://usegalaxy.org/), its implementation, and resources. 
 
+For information about current server and associated tools, please read server.md. 
+
+For information for seurat tool development, please see tool_development.md
+
+For more, please see resources.md for links.
+
 
 ## Introduction 
 

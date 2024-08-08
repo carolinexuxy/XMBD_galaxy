@@ -12,6 +12,30 @@ To launch the server, ssh into server 172.27.125.11:
 > 
 > serving on http://172.27.125.11:8084
 
+## Run service on background 
+To run service on background (unaffected by login status on the server such as exiting ssh session), launch service on a detach screen. 
+
+> screen
+>
+> \# detached screen launched
+>
+> cd galaxy
+>
+> launch
+>
+> \# to return and exit server without shutting service
+>
+> ctrl + a + d
+>
+> \# to return to the detached screen
+>
+> screen -r
+>
+> \# to shut down detached screen
+>
+> \# return to the detached screen
+>
+> exit
 ## Admin Account 
 ### Existing Admin Account 
 > username: test1
